@@ -1,6 +1,6 @@
 ### 🌐 Portfolio
 
-- [Portfolio (日本語)](https://steola6564.github.io/Portfolio/to)
+- [Portfolio (日本語)](https://steola6564.github.io/Portfolio/)
 - [Portfolio (English)](https://steola6564.github.io/Portfolio_en/)
 
 > ※ 現在更新を一時停止中です。近々改修予定です。
